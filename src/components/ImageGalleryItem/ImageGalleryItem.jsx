@@ -16,3 +16,4 @@ ImageGalleryItem.propTypes = {
   tags: PropTypes.string,
   handleClick: PropTypes.func
 }
+
